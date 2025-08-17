@@ -29,3 +29,7 @@ https://community.thefunpimps.com/resources/buy-on-day-one-vehicle-parts-and-mod
 https://www.nexusmods.com/7daystodie/mods/8357
 
 https://community.thefunpimps.com/resources/buy-on-day-one-telrics-horses-v2.132/
+
+### Buy On Day One - TMO ServerSide Vehicles:
+https://www.nexusmods.com/7daystodie/mods/8378
+
