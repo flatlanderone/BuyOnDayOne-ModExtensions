@@ -7,7 +7,7 @@ Buy On Day One mods for the vanilla version 7 Days To Die v2 are kept here: http
 ## Buy On Day One - Telrics Horses V2
 Buy On Day One - Telrics Horses V2 lets you buy all the horses from Telrics Horses V2 mod from each trader starting on your first day in the zombie apocalypse. 
 
-## Buy On Day One - TMO Vehicles (pending approval from parent mod creator)
+## Buy On Day One - TMO ServerSide Vehicles
 Buy On Day One - TMO Vehicles lets you buy all TMO vehicles from each trader starting on your first day in the zombie apocalypse.
 
 ## Important Notes 
