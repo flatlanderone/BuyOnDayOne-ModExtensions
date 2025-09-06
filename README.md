@@ -4,6 +4,13 @@
 This repository contains Buy On Day One mods extending various vehicle mods.
 Buy On Day One mods for the vanilla version 7 Days To Die v2 are kept here: https://github.com/flatlanderone/BuyOnDayOne-VanillaVehiclesModsParts
 
+
+## Buy On Day One - Bdubs Vehicles
+Buy On Day One - Bdubs Vehicles lets you buy all Bdubs vehicles from each trader starting on your first day in the zombie apocalypse.
+
+## Buy On Day One - Bdubs Vehicle Parts and Mods
+Buy On Day One - Bdubs Vehicle Parts and Mods lets you buy all parts and mods for Bdubs vehicles from the traders starting on your first day in the zombie apocalypse.
+
 ## Buy On Day One - Telrics Horses V2
 Buy On Day One - Telrics Horses V2 lets you buy all the horses from Telrics Horses V2 mod from each trader starting on your first day in the zombie apocalypse. 
 
