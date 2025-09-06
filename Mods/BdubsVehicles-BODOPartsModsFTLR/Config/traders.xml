@@ -6,15 +6,15 @@
 3. If needed (e.g. because traderstage_template too extensive), create new traderstage_template with distinct attribute (e.g. partVehicleFLTR or modVehicleFLTR) in traders.xml and apply new attribute to items in items.xml and item_modifiers.xml. -->
 
 
-<!-- This mod will switch off if Buy On Day One - Vanilla Vehicles, Mods and Parts is loaded. -->
+<!-- This mod will switch off if Buy On Day One - Vehicles and Mods for Bdub's Vehicles is loaded. -->
 <conditional>
-<if cond="mod_loaded('BuyOnDayOneVehiclesModsPartsFLTR') == false">
+<if cond="mod_loaded('BODO-BdubsVehiclesModsFLTR') == false">
 
-<!-- *** VANILLA VEHICLE PARTS (Chassis, Handlebars and Accessories) -->
+<!-- *** BDUB'S VEHICLE PARTS (Chassis, Handlebars and Accessories) -->
 
-<!-- Set all vehicle parts to be for sale at all game stages. Using partVehicleFLTR to target vehicle parts. partVehicleFLTR is set in items.xml -->
+<!-- Set all vehicle parts to be for sale at all game stages. Using partVehicleBdubsFLTR to target vehicle parts. partVehicleFLTR is set in items.xml -->
 <append xpath="/traders/traderstage_templates">
-	<traderstage_template name="partVehicleBdubFLTR">
+	<traderstage_template name="partVehicleBdubsFLTR">
 		<entry min="1" max="999999" quality="0"/>
 	</traderstage_template>
 </append>
@@ -49,13 +49,16 @@
 	<item name="vehicleWheels"/>
 </append>
 
-<!-- *** Reinforce Trader Bob's specialty. He has all the vehicle parts and all the vehicle mods.-->
+<!-- Remove groupVehicles from trader Bobs's inventory to avoid duplication.  -->
 
 <remove xpath="/traders/trader_info[@id='6']/trader_items/item[@group='groupVehicles']" />
+
+<!-- *** Reinforce Trader Bob's specialty. He has all the vehicle parts and all the vehicle mods. -->
 
 <insertBefore xpath="/traders/trader_info[@id='6']/trader_items/item[@group='traderRobotics']">
 
 <!-- Parts and accessories -->
+
 <!-- <item name="vehicleBicycleOldBVChassis"/>
 <item name="vehicleBicycleOldBVHandlebars"/>
 <item name="vehicleMinibikeOldBVChassis"/>
