@@ -2,7 +2,7 @@
 
 1. Buy On Day One - Parts and Mods for Bdub's Vehicles lets you buy all vehicles and vehicle mods from the Bdub's Vehicles 2.0 mod starting on your first day in the zombie apocalypse.
 
-2. All traders carry all the complete vehicles from the Bdub's Vehicles 2.0 mod as well as all vehicle mods (both vanilla and from Bdub's Vehicles.
+2. All traders carry all the complete vehicles from the Bdub's Vehicles 2.0 mod as well as all vehicle mods (both vanilla and from Bdub's Vehicles).
 
 3. Traders will not carry vehicle parts. 
 
