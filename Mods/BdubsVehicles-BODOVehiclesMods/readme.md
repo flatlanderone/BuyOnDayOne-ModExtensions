@@ -31,10 +31,20 @@
 
 - This mod's page on Nexus Mods.
 
+## See also
+### My other Buy On Day One mods
+- [**Buy On Day One - Parts and Mods for Bdub's Vehicles 2.0**](https://www.nexusmods.com/7daystodie/mods/8566)
+- [Buy On Day One - Telrics Horses V2](https://www.nexusmods.com/7daystodie/mods/8371)
+- [Buy On Day One - (TMO) ServerSide Vehicles](https://www.nexusmods.com/7daystodie/mods/8378)
+
+### My Rambling Man mods 
+- [Rambling Man - Archery On The Road](https://www.nexusmods.com/7daystodie/mods/8512)
+- [Rambling Man - Improvised Explosives and Arrows](https://www.nexusmods.com/7daystodie/mods/8456)
+
 ## About this mod
 - **Author**: Flat Lander [GitHub](https://github.com/flatlanderone/flatlander-releases) / [Nexus Mods](https://next.nexusmods.com/profile/flatlanderone)
 
-- **Mod name**: [Buy On Day One - Vehicles and Mods for Bdub's Vehicles 2.0](https://www.nexusmods.com/7daystodie/mods/8565)
+- **Download page**: [Buy On Day One - Vehicles and Mods for Bdub's Vehicles 2.0](https://www.nexusmods.com/7daystodie/mods/8565)
 
 - **Version**: 0.1.0.0
 
