@@ -32,7 +32,7 @@
 - This mod's page on Nexus Mods.
 
 ## About this mod
-- **Author**: Flat Lander [(GitHub)](https://github.com/flatlanderone/flatlander-releases) / [Nexus Mods](https://next.nexusmods.com/profile/flatlanderone)
+- **Author**: Flat Lander [GitHub](https://github.com/flatlanderone/flatlander-releases) / [Nexus Mods](https://next.nexusmods.com/profile/flatlanderone)
 
 - **Mod name**: [Buy On Day One - Vehicles and Mods for Bdub's Vehicles 2.0](https://www.nexusmods.com/7daystodie/mods/8565)
 
