@@ -1,6 +1,6 @@
 # Buy On Day One - Trader Bob Addon for BODO - Parts and Mods for Bdub's Vehicles 2.0 (with the Mechanic Trader)
 
-1. Install this addon alongside **Buy On Day One - Parts and Mods for Bdub's Vehicles 2.0 (with the Mechanic Trader)** to have Trader Bob carry all the vehicle parts and vehicle mods from the Bdub's Vehicles 2.0 mod starting on your first day in the zombie apocalypse.
+1. Install the **Trader Bob Addon** alongside **Buy On Day One - Parts and Mods for Bdub's Vehicles 2.0 (with the Mechanic Trader)** to have Trader Bob also carry all the vehicle parts and vehicle mods from the Bdub's Vehicles 2.0 mod.
 
 2. Requested by [Cinnaspice](https://next.nexusmods.com/profile/Cinnaspice) on [Nexus Mods](https://www.nexusmods.com/7daystodie/mods/8581?tab=posts&comment_id=159163228).
 

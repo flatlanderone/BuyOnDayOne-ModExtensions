@@ -25,6 +25,7 @@
 5. Do not install alongside **Buy On Day One - Parts and Mods for Bdub's Vehicles 2.0 (with the Mechanic Trader)**.
 
 # Requirements
+
 - [Bdub's Vehicles 2.0](https://www.nexusmods.com/7daystodie/mods/342).
 
 - 7 Days to Die v2.0 and later.
